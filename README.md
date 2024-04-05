@@ -1,6 +1,8 @@
 # Human Blog
 Projeto feito para a disciplina "Projeto Integrador - Projeto Vida".
 
+* Para executar o projeto você precisa ter NodeJS baixado em seu computador: https://nodejs.org/en/download.
+* Projeto FullStack feito com MERN (MongoDB, Express, React, NodeJS)
 
 ## Como iniciar o projeto automático
 Execute o arquivo "start.bat" e aguarde todos os pacotes serem caregados.
